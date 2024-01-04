@@ -1,3 +1,5 @@
+![banner](https://github.com/Gladwin-George/Chatbot-that-learns-from-user/blob/main/banner.png)
+
 # Knowledge Base Chatbot
 
 A simple chatbot project that uses a knowledge base in a JSON file. The chatbot can answer predefined questions and learn new responses from users.

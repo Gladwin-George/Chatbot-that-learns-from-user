@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am fine Thank you for asking! As a program I don't have feelings, but I'm here and ready to help you with any questions or information you might need. How can I assist you today?"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    }
+  ]
+}

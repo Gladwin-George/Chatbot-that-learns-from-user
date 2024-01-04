@@ -1,4 +1,4 @@
-# Chatbot with Knowledge Base
+# Knowledge Base Chatbot
 
 A simple chatbot project that uses a knowledge base in a JSON file. The chatbot can answer predefined questions and learn new responses from users.
 
